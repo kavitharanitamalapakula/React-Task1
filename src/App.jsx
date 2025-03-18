@@ -6,12 +6,12 @@ import { MainSection } from './components/mainsection'
 
 function App() {
   return (
-    <div>
+    <>
       <Header />
       <Banner />
       <MainSection />
       <Footer />
-    </div>
+    </>
   );
 }
 export default App

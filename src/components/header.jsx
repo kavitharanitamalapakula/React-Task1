@@ -15,6 +15,8 @@ export function Header() {
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNav">
                     <Navbar />
+                    <li class="nav-item"><a class="btn btn-primary me-2" href="#">Sign In</a></li>
+                    <li class="nav-item"><a class="btn btn-primary" href="#">Sign Up</a></li>
                 </div>
             </div>
         </nav>
